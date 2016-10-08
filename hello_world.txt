@@ -1,3 +1,2 @@
 Hello, world!
 Sat Oct  8 11:35:37 CDT 2016
-undoing staged and committed changes
